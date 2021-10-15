@@ -2,8 +2,7 @@
 
 ### Quick Navigation
 
-| [Data Structures/Algorithms](#data-structures-and-algorithms) | [Design/Engineering](#software-design-and-engineering) | [Databases](#databases) |
-| ------------------------------------------------------------- | ------------------------------------------------------ | ----------------------- |
+[Data Structures/Algorithms](#data-structures-and-algorithms) | [Design/Engineering](#software-design-and-engineering) | [Databases](#databases)
 
 **GitHub Artifacts**:
 - [Algorithms](https://github.com/aplace1/CS-260/)
@@ -82,10 +81,10 @@ On-GitHub [GitHub Artifact-CS-260](https://github.com/aplace1/CS-260/)
 | HashTable      | Loading   |         193 |   0.193 |
 | LinkedList     | Loading   |         107 |   0.107 |
 | VectorSort     | Loading   |         106 |   0.106 |
-| ---            |
+| - | - | - | - |
 | VectorSort     | LinkSort  |        1170 |   1.170 |
 | VectorSort     | QuickSort |          12 |   0.012 |
-| ---            |
+| - | - | - | - |
 | LinkedList     | Search    |           3 |   0.003 |
 | BinaryTree     | Search    |           3 |   0.003 |
 | HashTable      | Search    |           3 |   0.003 |
