@@ -6,13 +6,15 @@
 
 **GitHub Artifacts**:
 - [Algorithms](https://github.com/aplace1/CS-260/)
-- [ContactList](https://github.com/aplace1/CS-320/)
+- [ContactList](https://github.com/aplace1/CS-320-ContactList)
 - [Database Application](https://github.com/aplace1/CS-340)
 - [XOR Encryption](https://github.com/aplace1/CS-405/)
 
 <hr>
 
 # Software Design and Engineering
+
+On-GitHub [GitHub Artifact-CS-320](https://github.com/aplace1/CS-320-ContactList)
 
 **Project**: `ContactList` - Software Test Automation and Quality Assurance
 
