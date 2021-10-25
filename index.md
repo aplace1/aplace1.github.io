@@ -9,6 +9,7 @@
 - [ContactList](https://github.com/aplace1/CS-320-ContactList)
 - [Database Application](https://github.com/aplace1/CS-340)
 - [XOR Encryption](https://github.com/aplace1/CS-405/)
+- [Security Policy](https://github.com/aplace1/CS-405/blob/main/security_policy/CS_405_security_template.md)
 
 <hr>
 
