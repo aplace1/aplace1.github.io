@@ -1,3 +1,5 @@
+# CS-499 Capstone
+
 # Quick Navigation
 [Data Structures/Algorithms](#data-structures-and-algorithms) |
 [Design/Engineering](#software-design-and-engineering) |
