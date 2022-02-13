@@ -1,0 +1,90 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+$headerTextColor: #ffffff;
+$bodyBackgroundColor: #2a2a2a;
+
+$paragraphTextColor: #2baaff;
+$regularTextColor: #c4c4c4;
+$contentBackground: #212121;
+
+.page-header {
+    color: $headerTextColor;
+    text-align: center;
+    background: linear-gradient(180deg, black, $bodyBackgroundColor);
+}
+
+.btn {
+    animation-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    border-color: rgba($color: black, $alpha: 0.2);
+}
+.btn :hover {
+    box-shadow: black 2px 1;
+}
+
+.highlight {
+    border-radius: 4px;
+}
+
+.main-content {
+    word-wrap: break-word;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: stretch;
+    flex-wrap: nowrap;
+}
+
+.main-content > h2 {
+    color: white;
+}
+
+.main-content > h3,
+.main-content > h4,
+.main-content > h5 {
+    color: orange;
+}
+
+#content,
+.highlight {
+    border-left: 3px solid orange;
+}
+
+#content {
+    background-color: $contentBackground;
+    border-radius: 4px;
+}
+
+blockquote {
+    border-left: 3px solid #8ad0ff !important;
+    border-radius: 4px;
+    background-color: rgba($color: white, $alpha: 0.1);
+    -moz-text-size-adjust: auto;
+}
+th {
+    color: #2baaff;
+}
+
+.main-content > h1,
+.main-content > h6 {
+    color: #8ad0ff;
+}
+
+dd {
+    color: chartreuse;
+}
+dt {
+    color: deeppink;
+}
+
+p,
+td,
+li {
+    color: #b8b8b8;
+}
+
+body {
+    background-color: $bodyBackgroundColor;
+}
