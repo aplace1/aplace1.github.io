@@ -1,116 +1,109 @@
-# CS-499 Capstone
-
-# Quick Navigation
-[Data Structures/Algorithms](#data-structures-and-algorithms) |
-[Design/Engineering](#software-design-and-engineering) |
-[Databases](#databases) |
-
-
-# Software Design and Engineering
-
-On-GitHub [GitHub Artifact-CS-320](https://github.com/aplace1/CS-320-ContactList)
-
-Project: `ContactList` - Software Test Automation and Quality Assurance
-
-Written in Java, uses JUnit5
+---
+layout: default
+title: "SNHU CS-Portfolio"
+description: Professional Self-Assessment
+---
 
 
-### Coverage Reports - ContactList
+# Self-Assessment
 
-| Class Name     |  Methods | Lines Covered | Total |
-| :------------- | -------: | ------------: | ----: |
-| Contact        | (10/ 10) |      (29/ 29) |  100% |
-| ContactService |   (5/ 5) |      (16/ 16) |  100% |
+Completing the coursework within the computer science program alongside
+creating the ePortfolio has helped me by providing a basic understanding of
+many concepts to build upon. Specific examples would be learning OpenGL,
+Embedded devices, Client and Server Development, an introduction to
+reverse engineering, and Collaboration and Team Projects.
 
-### ContactServiceTest
+During this subset of classes, In the computer visualizations course with
+OpenGL, we used several C++ libraries to build a 3D environment with shaders
+and a controllable camera.
 
-| Status | Operations                   |
-| :----: | :--------------------------- |
-|  Pass  | List ContactList is not null |
-|  Pass  | Operation (REMOVE) contact   |
-|  Pass  | Operation (UPDATE) contact   |
-|  Pass  | Operation (ADD) contact      |
+In the embedded devices course, I obtained a new perspective on how
+micro-controllers are programmed. Everything from a basic clock to a router.
+I was learning more about state-machines, Embedded-C, and how I could implement
+them onto a Texas Instruments CC3220S.
 
+Within Client and server Development I was shown a new form of databases,
+non-relational databases. Two of my GitHub projects contain non-relational
+databases and one is the primary artifact I will be discussing.
 
-### ContactTest
+The introductory course to reverse engineering provided both a hobby and a
+new outlook on how code is compiled. From this newfound hobby, I have realized
+the intricacies of protecting a program's integrity. Each instruction denoted by
+bytes may be read or manipulated to change the control flow.
 
-| Status | All Tests             | Testing |
-| :----: | :-------------------- | :-----: |
-|  Pass  | Size of class strings |  size   |
-|  Pass  | For Null-Attributes   |  null   |
-|  Pass  | getPhone()            | getter  |
-|  Pass  | setFirstName()        | setter  |
-|  Pass  | getID()               | getter  |
-|  Pass  | getAddress()          | getter  |
-|  Pass  | setLastName()         | setter  |
-|  Pass  | getLastName()         | getter  |
-|  Pass  | setAddress()          | setter  |
-|  Pass  | getFirstName()        | getter  |
-|  Pass  | setPhone()            | setter  |
+Lastly, the collaborative team environment explained the importance of Git and
+how to use it for both personal and group projects. I primarily access git
+through the terminal and utilize it regularly.
 
+<br>
 
-# Data Structures and Algorithms
+# New Artifact Summary
 
-On-GitHub [GitHub Artifact-CS-260](https://github.com/aplace1/CS-260/)
+The new artifact I am adding to my portfolio is a combination of two seperate projects.
 
-### Data structures used
+**CS-310 Collaboration and Team Project**, and
+**CS-250 Software Development Life-cycle** (SDLC).
 
-- Hash Tables
-- Binary Trees
-- Linked Lists
-- Vectors
+The first project was a simple text-based Jukebox that used a queue data
+structure to display data from a LinkedList or playlist. The second project was
+a graphical slideshow of travel destinations. I wanted to include these
+projects to demonstrate my aptitude for developing secure, clean, and reusable
+code.
 
-### Algorithms
-- Binary Search
-- HashTable Search
-- Linear Sorting
-- Linear Searching
-- QuickSort
+Briefly, I modularized and refactored the Slideshow project so that it would be
+able to emulate the functionality of a jukebox/music player. It can now connect
+and query a group of randomly selected records from a database and can display
+a picture (cover art) based on the genre of the currently playing song. It also
+shows the artist and song name.
 
-
-### Loading, Sorting, & Searching
-
-Time Table Results from (CSV with 17937 records)
-
-| File/Algorithm | Method    | Clock Ticks | Seconds |
-| :------------- | :-------- | ----------: | ------: |
-| BinaryTree     | Loading   |         856 |   0.856 |
-| HashTable      | Loading   |         193 |   0.193 |
-| LinkedList     | Loading   |         107 |   0.107 |
-| VectorSort     | Loading   |         106 |   0.106 |
-| -              | -         |           - |       - |
-| VectorSort     | LinkSort  |        1170 |   1.170 |
-| VectorSort     | QuickSort |          12 |   0.012 |
-| -              | -         |           - |       - |
-| LinkedList     | Search    |           3 |   0.003 |
-| BinaryTree     | Search    |           3 |   0.003 |
-| HashTable      | Search    |           3 |   0.003 |
-
-### Implementations:
-
-- Basic Data-structure, Search by ID, Display by Title (ASC alphabetically)
-- HashTable
-- BinaryTree
-- Vectors, Linear and QuickSort Algorithms.
-
-### Encryption
-
-On GitHub [XOR-Encryption](https://github.com/aplace1/CS-405)
-
-### Basic Explanation:
-
-Encrypts and decrypts a file using an XOR and a string.
-
-# Databases
-
-On-GitHub [Database Application](https://github.com/aplace1/CS-340)
-
-![logo](https://raw.githubusercontent.com/aplace1/CS-340/main/images/logo.png)
+The Queue based structure was swapped out for a circular doubly linked list
+allowing backwards and forwards traversal to and from the last and first song in
+the playlist. This acts as a looping mechanic within the program.
 
 
-### Github Artifacts:
-[Algorithms](https://github.com/aplace1/CS-260/) |
-[ContactList](https://github.com/aplace1/CS-320-ContactList) |
-[Database Application](https://github.com/aplace1/CS-340) |
-[XOR Encryption](https://github.com/aplace1/CS-405/) |
-[Security Policy](https://github.com/aplace1/CS-405/blob/main/security_policy/CS_405_security_template.md)
+<br>
+
+<hr>
+
+## Course List - (Mini Log)
+
+### Computer Science:
+- **CS-410** Software Reverse Engineering
+- **CS-405** Secure Coding
+- **CS-360** Mobile Architect and Programming
+- **CS-350** Emerging System Architecture and Technology
+- **CS-340** Client and Server Development
+- **CS-330** Computer Graphic and Visualization (OpenGL)
+- **CS-320** Software Test Automation and Quality Assurance
+- **CS-310** Collaboration and Team Project
+- **CS-260** Data Structures and Algorithms
+- **CS-250** Software Development Life-cycle (SDLC)
+- **CS-200** Computer Science Role in Industry
+
+### Databases & Data-Mining:
+- **DAD-220** Intro to Structure Database Environments
+- **DAT-220** Fundamentals of Data Mining
+
+### Information Technology:
+- **IT-365** Operating System Environments
+- **IT-315** Object Oriented Analysis and Design
+- **IT-255** Introduction to Linux Operating System
+- **IT-201** Computer Platform Technologies
+
+### Mathematics:
+- **MAT-350** Applied Linear Algebra
+- **MAT-243** Applied Statistics for STEM
+- **MAT-230** Discrete Mathematics
+- **MAT-225** Calculus I: Single-Variable Calculus
+
+<br>
+
+<hr>
+
+### Course Repositories on GitHub:
+[CS-260](https://github.com/aplace1/CS-260/) |
+[CS-320](https://github.com/aplace1/CS-320-ContactList) |
+[CS-340](https://github.com/aplace1/CS-340) |
+[CS-405](https://github.com/aplace1/CS-405/) |
+[Security Policy](./security_template) |
+[previous_portfolio](./ePortfolio) |
