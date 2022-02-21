@@ -56,3 +56,6 @@ var song = playlists.find(new Document("id", random.nextInt(100))).first();
 ## Example when running and clicking shuffle
 
 ![demo](./assets/images/shuffle_demo.gif)
+
+
+<a href="/" class="btn">Return Home<a>

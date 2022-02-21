@@ -101,9 +101,10 @@ the playlist. This acts as a looping mechanic within the program.
 <hr>
 
 ### Course Repositories on GitHub:
-[CS-260](https://github.com/aplace1/CS-260/) |
-[CS-320](https://github.com/aplace1/CS-320-ContactList) |
-[CS-340](https://github.com/aplace1/CS-340) |
-[CS-405](https://github.com/aplace1/CS-405/) |
-[Security Policy](./security_template) |
-[previous_portfolio](./ePortfolio) |
+
+<a href="https://github.com/aplace1/CS-260" class="btn">CS-260<a>
+<a href="https://github.com/aplace1/CS-320-ContactList" class="btn">CS-320<a>
+<a href="https://github.com/aplace1/CS-340" class="btn">CS-340<a>
+<a href="https://github.com/aplace1/CS-405" class="btn">CS-405<a>
+<a href="./security_template" class="btn">Security Template<a>
+<a href="./ePortfolio" class="btn">Previous Portfolio<a>
