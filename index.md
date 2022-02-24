@@ -65,6 +65,10 @@ the playlist. This acts as a looping mechanic within the program.
 
 <br>
 
+# Code Review
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/DnSiui3twhA" title="Video Player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
 <hr>
 
 ## Course List - (Mini Log)
