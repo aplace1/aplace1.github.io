@@ -39,6 +39,8 @@ through the terminal and utilize it regularly.
 
 # New Artifact Summary
 
+<a href="https://github.com/aplace1/Jukebox-Capstone-Artifact" class="btn">Jukebox Project</a>
+
 The new artifact I am adding to my portfolio is a combination of two seperate projects.
 
 **CS-310 Collaboration and Team Project**, and
